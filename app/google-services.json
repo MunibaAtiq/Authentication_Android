@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886759865564",
+    "project_id": "auth-c2a8a",
+    "storage_bucket": "auth-c2a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886759865564:android:89fd56bb5733859215c819",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886759865564-3ahs3qrerqtkb4ujii1htjjrafgo4k9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-U1JjDv0z4h1DrvTm7fKHl5xfbcefH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886759865564-3ahs3qrerqtkb4ujii1htjjrafgo4k9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
